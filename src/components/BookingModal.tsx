@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { X, MessageCircle, Calendar, Phone, User, Mail, FileText } from 'lucide-react';
+import { X, Calendar, Phone, User } from 'lucide-react';
 import { Doctor } from '../config/clinicConfig';
 import { useLanguage } from '../contexts/LanguageContext';
 import { clinicConfig } from '../config/clinicConfig';
